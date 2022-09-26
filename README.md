@@ -75,7 +75,7 @@ Puedes ingresar directamente al link haciendo clic con la tecla `Ctrl` presionad
 
 ### Cambiar nombre al proyecto
 
-En este momento tu proyecto tiene el nombre `angular-quickstart` por defecto. 
+En este momento tu proyecto tiene el nombre `elizzz-hola` por defecto. 
 
 Para ponerle un nombre personalizado, en VSCode presiona `Ctrl` + `Shift` + `F`, esto debería abrirte el buscador
 
@@ -84,7 +84,7 @@ Para ponerle un nombre personalizado, en VSCode presiona `Ctrl` + `Shift` + `F`,
 Busca: 
 
 ```bash
-angular-quickstart
+elizzz-hola
 ```
 
 Deberían aparecer `22 resultados en 9 archivos`
